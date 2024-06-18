@@ -1,0 +1,402 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.20f1 (35a524b12060) revision 3515684'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'ja' Physical Memory: 16230 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2023.1.20f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker1
+-projectPath
+C:/Users/s20237042/Desktop/Kaerurun12/Kaerurun13
+-logFile
+Logs/AssetImportWorker1.log
+-srvPort
+55810
+Successfully changed project path to: C:/Users/s20237042/Desktop/Kaerurun12/Kaerurun13
+C:/Users/s20237042/Desktop/Kaerurun12/Kaerurun13
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [24964] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3413242746 [EditorId] 3413242746 [Version] 1048832 [Id] WindowsEditor(7,HCS18001) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [24964] Host "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3413242746 [EditorId] 3413242746 [Version] 1048832 [Id] WindowsEditor(7,HCS18001) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 11 workers.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 11.58 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.20f1 (35a524b12060)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2023.1.20f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/s20237042/Desktop/Kaerurun12/Kaerurun13/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1060 (ID=0x1c20)
+    Vendor:   NVIDIA
+    VRAM:     6052 MB
+    Driver:   24.21.13.9835
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2023.1.20f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2023.1.20f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2023.1.20f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56316
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2023.1.20f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003313 seconds.
+- Loaded All Assemblies, in  0.536 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.363 seconds
+Domain Reload Profiling: 896ms
+	BeginReloadAssembly (164ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (47ms)
+	RebuildNativeTypeToScriptingClass (19ms)
+	initialDomainReloadingComplete (64ms)
+	LoadAllAssembliesAndSetupDomain (239ms)
+		LoadAssemblies (162ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (233ms)
+			TypeCache.Refresh (232ms)
+				TypeCache.ScanAssembly (212ms)
+			ScanForSourceGeneratedMonoScriptInfo (1ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (363ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (308ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (5ms)
+			BeforeProcessingInitializeOnLoad (9ms)
+			ProcessInitializeOnLoadAttributes (215ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  1.208 seconds
+Refreshing native plugins compatible for Editor in 4.60 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.778 seconds
+Domain Reload Profiling: 1982ms
+	BeginReloadAssembly (395ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (6ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (35ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (13ms)
+	initialDomainReloadingComplete (51ms)
+	LoadAllAssembliesAndSetupDomain (705ms)
+		LoadAssemblies (358ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (451ms)
+			TypeCache.Refresh (418ms)
+				TypeCache.ScanAssembly (401ms)
+			ScanForSourceGeneratedMonoScriptInfo (26ms)
+			ResolveRequiredComponents (7ms)
+	FinalizeReload (778ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (519ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (375ms)
+			ProcessInitializeOnLoadMethodAttributes (38ms)
+			AfterProcessingInitializeOnLoad (4ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.02 seconds
+Refreshing native plugins compatible for Editor in 4.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4312 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 76 unused Assets / (94.1 KB). Loaded Objects now: 4852.
+Memory consumption went from 163.2 MB to 163.1 MB.
+Total: 5.749700 ms (FindLiveObjects: 0.315600 ms CreateObjectMapping: 0.406400 ms MarkObjects: 4.932600 ms  DeleteObjects: 0.093800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 267631.108432 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogContlloer.cs
+  artifactKey: Guid(2657d677fe4f65a418f15d78476b1a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogContlloer.cs using Guid(2657d677fe4f65a418f15d78476b1a6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b81fd39430fd813f62b713cb93daf247') in 0.003131 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000105 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCpuAi.cs
+  artifactKey: Guid(b48c84625b5b92845b3ecd7ce6a9c6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCpuAi.cs using Guid(b48c84625b5b92845b3ecd7ce6a9c6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba0bf1caedf6c72d7043aa7e13be7372') in 0.000427 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Frog/BeardScript/BeardFrog.cs
+  artifactKey: Guid(779323c53e313d7449289ef52a24638e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrog.cs using Guid(779323c53e313d7449289ef52a24638e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3894e7c55efbffde688d0afc184eb69') in 0.000374 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 0
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 3.95 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 2 unused Assets / (60.2 KB). Loaded Objects now: 4852.
+Memory consumption went from 90.7 MB to 90.7 MB.
+Total: 4.427200 ms (FindLiveObjects: 0.322100 ms CreateObjectMapping: 0.408500 ms MarkObjects: 3.663300 ms  DeleteObjects: 0.032400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:CustomObjectIndexerAttribute: 756ad292c208cfabdd7b50bc23989ffe -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 25.737074 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5440cc9990799593e183a2324f583f6d') in 0.149244 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 38.716089 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22fe5443765c617b901ec167f7182712') in 0.035123 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 6.220796 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e08a196ff16963981341dd269cd465') in 0.024529 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 16.085181 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b580f91ff5e083853937661bda9cd9e9') in 0.026658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 12.774954 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '658fc6482f193f2447b19adc2cd403d3') in 0.029352 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 46.796611 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '778907e9c25babf5e8426c20a9f5b10d') in 0.028136 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 1.618246 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91990073c4e4d9bb97e834108f6e69f3') in 0.026285 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 4.018731 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4654ed19ce8e35a39b199bbf3f9feca4') in 0.026103 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 3.332394 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72c33de1432b1040326dcb478156c202') in 0.024062 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 5.919800 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b066a5223ce810f7f82cb2088820b15a') in 0.024432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 40.995761 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eb3c2c484e078c04915967eda2a5ea8') in 0.026699 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 8.089085 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4124011e6535dc50e367645ecbee2fdd') in 0.028363 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Import Request.
+  Time since last request: 12.081819 seconds.
+  path: Assets/Frog/BeardScript/BeardFrogCPU.prefab
+  artifactKey: Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Frog/BeardScript/BeardFrogCPU.prefab using Guid(5cd3aa2fe10a305438313e70c02de891) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4832dbdcd0a014bd4273f913ab6eec8') in 0.027251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 242
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Loaded All Assemblies, in  0.841 seconds
+Refreshing native plugins compatible for Editor in 4.07 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.067 seconds
+Domain Reload Profiling: 1904ms
+	BeginReloadAssembly (223ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (13ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (54ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (27ms)
+	LoadAllAssembliesAndSetupDomain (536ms)
+		LoadAssemblies (343ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (308ms)
+			TypeCache.Refresh (297ms)
+				TypeCache.ScanAssembly (285ms)
+			ScanForSourceGeneratedMonoScriptInfo (4ms)
+			ResolveRequiredComponents (6ms)
+	FinalizeReload (1067ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (482ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			BeforeProcessingInitializeOnLoad (87ms)
+			ProcessInitializeOnLoadAttributes (332ms)
+			ProcessInitializeOnLoadMethodAttributes (48ms)
+			AfterProcessingInitializeOnLoad (5ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
